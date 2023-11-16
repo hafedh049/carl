@@ -3,7 +3,7 @@ player2 = 'Hafedh';
 
 start = false; 
 
-function drawPlayer() {
+function drawPlayer(id = 0) {
     start = !start;
-    alert(start);
+    document.getElementById(String(id)).innerHTML = "<img class='duration-700 hover:scale-120' src='../../../assets/images/o.png'></img>";
 }
