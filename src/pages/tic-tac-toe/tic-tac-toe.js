@@ -22,7 +22,7 @@ function drawLine(startX, startY, endX, endY) {
   const angle = Math.atan2(endY - startY, endX - startX) * (180 / Math.PI);
 
   // Set line length, angle, and position
-  line.style.width = distance + 'px';
+  line.style.width = 100 + distance + 'px';
   line.style.transform = `rotate(${angle}deg)`;
   line.style.left = startX + 'px';
   line.style.top = startY + 'px';
@@ -30,7 +30,8 @@ function drawLine(startX, startY, endX, endY) {
 
 function drawPlayer(id = 0) {
   if (!grid[id - 1].innerHTML) {
-    console.log(grid[id - 1].style.position);
+    console.log((grid[id - 1].offsetTop + grid[id - 1].offsetLeft) / 2);
+    drawLine((grid[id - 1].offsetTop + grid[id - 1].offsetLeft) / 2,(grid[id - 1].offsetTop + grid[id - 1].offsetLeft) / 2,(grid[id - 1].offsetTop + grid[id - 1].offsetLeft) / 2,(grid[id - 1].offsetTop + grid[id - 1].offsetLeft) / 2)
     turn = !turn;
     grid[
       id - 1
@@ -39,4 +40,3 @@ function drawPlayer(id = 0) {
     }.png'></img>`;
   }
 }
-
