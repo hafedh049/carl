@@ -1,19 +1,18 @@
 function doit() {
-  let contentsBounds = document.body.getBoundingClientRect();
-  let width = contentsBounds.width;
-  let height = contentsBounds.height;
+  let width = window.innerWidth;
+  let height = window.innerHeight;
   
   functionPlot({
     target: "#root",
     width:width,
-    hight:height,
+    height:,
     yAxis: { domain: [-100, 100] },
     grid: true,
     data: [
       {
-        fn: "x^3",
+        fn: "log(x)",
         derivative: {
-          fn: "2 * x",
+          fn: "3 * x",
           updateOnMouseMove: true,
         },
       },
