@@ -5,16 +5,20 @@ function doit() {
   functionPlot({
     target: "#root",
     width:width,
-    height:,
-    yAxis: { domain: [-100, 100] },
+    height:height,
+    yAxis: { domain: [-10, 10] },
     grid: true,
     data: [
       {
         fn: "log(x)",
         derivative: {
-          fn: "3 * x",
+          fn: "1/x",
           updateOnMouseMove: true,
         },
+      },
+      {
+        fn: "x",
+        
       },
     ],
   });
