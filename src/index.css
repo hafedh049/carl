@@ -174,4 +174,6 @@ body.nav-active {
     transition: var(--transition-1);
 }
 
-.preload.loaded
+.preload.loaded {
+    
+}
