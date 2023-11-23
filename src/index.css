@@ -452,3 +452,9 @@ body.nav-active {
 .navbar .close-btn ion-icon {
     --ionicon-stroke-width: 40px;
 }
+
+.navbar .close-btn:is(:hover, :focus-visible) {
+    color: var(--gold-crayola);
+}
+
+.navbar
