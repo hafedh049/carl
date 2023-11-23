@@ -468,3 +468,6 @@ body.nav-active {
     margin-block-end: 100px;
 }
 
+.navbar-item {
+    border-block-start: 1px solid var(--white-alpha-20);
+}
