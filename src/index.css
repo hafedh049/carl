@@ -167,4 +167,5 @@ body.nav-active {
     display: grid;
     place-content: center;
     justify-content: center;
+    transition: ;
 }
