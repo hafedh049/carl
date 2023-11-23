@@ -188,4 +188,5 @@ body.nav-active {
     height: 112px;
     border-radius: var(--radius-circle);
     border: 3px sold var(--white);
+    border-block-start-color: ;
 }
