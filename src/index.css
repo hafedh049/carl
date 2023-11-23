@@ -351,7 +351,6 @@ body.nav-active {
     display: none;
 }
 
-.navbar,
 .overlay,
 .header .btn {
     display: none;
@@ -418,3 +417,5 @@ body.nav-active {
 .nav-open-btn .line-3 {
     animation-delay: 300ms;
 }
+
+.navbar,
