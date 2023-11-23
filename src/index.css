@@ -101,4 +101,5 @@ button,
 select,
 textarea {
     background: none;
+    border: none;
 }
