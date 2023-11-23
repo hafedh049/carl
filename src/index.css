@@ -437,5 +437,5 @@ body.nav-active {
 
 .navbar.active {
     visibility: visible;
-    transition
+    transform: translateX(360px);
 }
