@@ -139,4 +139,4 @@ body.loaded {
     overflow: overlay;
 }
 
-body.nav-active {}
+body.nav-active {overflow: ;}
