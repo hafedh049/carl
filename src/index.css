@@ -446,5 +446,7 @@ body.nav-active {
     padding: 4px;
     border-radius: var(--radius-circle);
     margin-inline-start: auto;
-    margin-block: 30px;
+    margin-block: 30px 20px;
 }
+
+.navbar .close-btn
