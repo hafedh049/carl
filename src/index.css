@@ -163,7 +163,7 @@ body.nav-active {
 .separator{
     width: 8px;
     height: 8px;
-    border: ;
+    border: 1px solid var(--gold-crayola);
 }
 
 .preload {
