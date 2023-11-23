@@ -487,3 +487,7 @@ body.nav-active {
 .navbar-link .span {
     transition: var(--transition-1);
 }
+
+.navbar-link:is(:hover, :focus-visible, .active) .span {
+
+}
