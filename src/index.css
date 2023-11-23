@@ -442,5 +442,7 @@ body.nav-active {
 
 .navbar .close-btn {
     color: var(--white);
-    border: 1px solid;
+    border: 1px solid currentColor;
+    padding: 4px;
+    border: -radius: var(--radius-circle);
 }
