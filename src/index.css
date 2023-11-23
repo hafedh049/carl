@@ -457,4 +457,6 @@ body.nav-active {
     color: var(--gold-crayola);
 }
 
-.navbar
+.navbar .logo {
+    max-width: max-content;
+}
