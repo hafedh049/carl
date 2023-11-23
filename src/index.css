@@ -222,8 +222,8 @@ body.nav-active {
     font-size: var(--fontSize-label-1);
 }
 
-.label-1 {
-    font-size: var(--fontSize-label-1);
+.label-2 {
+    font-size: var(--fontSize-label-2);
 }
 
 .container {
