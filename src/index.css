@@ -196,6 +196,8 @@ body.nav-active {
     transition: var(--transition-2);
 }
 
+<span class="line line-1"></span>
+
 .preload {
     position: fixed;
     top: 0;
