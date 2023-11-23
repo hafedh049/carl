@@ -439,3 +439,8 @@ body.nav-active {
     visibility: visible;
     transform: translateX(360px);
 }
+
+.navbar .close-btn {
+    color: var(--white);
+    border: 1px solid;
+}
