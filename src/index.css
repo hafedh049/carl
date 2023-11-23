@@ -393,4 +393,8 @@ body.nav-active {
     padding-inline-end: 0;
 }
 
-.nav-open-btn
+.nav-open-btn .line {
+    width: 30px;
+    height: 2px;
+    background-color
+}
