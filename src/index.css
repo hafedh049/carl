@@ -166,6 +166,7 @@ body.nav-active {
 .title-4 {
     color: var(--white);
     font-family: var(--fontFamily-forum);
+    font-weight: var(--weight-regular);
 }
 
 .container {
