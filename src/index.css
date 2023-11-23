@@ -399,5 +399,7 @@ body.nav-active {
     background-color: var(--white);
     margin-block: 4px;
     transform-origin: left;
-    animation: menuBtn 400ms ease-in-out;
+    animation: menuBtn 400ms ease-in-out alternate infinite;
 }
+
+@keyframes
