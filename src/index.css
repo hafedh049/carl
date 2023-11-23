@@ -526,4 +526,7 @@ body.nav-active {
     color:var(--gold-crayola);
 }
 
-.navbar .text-center
+.navbar .text-center .separator {
+    margin-block: 30px;
+    margin-inline: auto;
+}
