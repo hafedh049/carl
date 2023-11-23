@@ -187,4 +187,5 @@ body.nav-active {
     width: 112px;
     height: 112px;
     border-radius: var(--radius-circle);
+    border: 3px sold var();
 }
