@@ -201,8 +201,8 @@ body.nav-active {
     opacity: 1;
 }
 
-.contact-number {
-    
+.contact-number::after {
+
 }
 
 .preload {
