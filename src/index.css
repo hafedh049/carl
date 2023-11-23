@@ -376,5 +376,6 @@ body.nav-active {
 }
 
 .header.hide {
-    
+    transform: translateY(-100%);
+    transition-delay: 250ms;
 }
