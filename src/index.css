@@ -379,3 +379,5 @@ body.nav-active {
     transform: translateY(-100%);
     transition-delay: 250ms;
 }
+
+.header .container
