@@ -552,5 +552,6 @@ body.nav-active {
 }
 
 .overlay.active {
-    
+    opacity: 1;
+    pointer-events: all;
 }
