@@ -214,6 +214,10 @@ body.nav-active {
     font-size: var(--fontSize-body-3);
 }
 
+.body-3 {
+    font-size: var(--fontSize-body-3);
+}
+
 .container {
     padding-inline: 16px;
 }
