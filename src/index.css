@@ -489,5 +489,5 @@ body.nav-active {
 }
 
 .navbar-link:is(:hover, :focus-visible, .active) .span {
-
+    color: var(--gold-crayola);
 }
