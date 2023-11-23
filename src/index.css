@@ -505,3 +505,8 @@ body.nav-active {
 .navbar-link:is(:hover, :focus-visible, .active) .separator {
     opacity: 1;
 }
+
+.navbar-title {
+    margin-block-end: 15px;
+}
+
