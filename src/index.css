@@ -127,5 +127,5 @@ html{
 
 body{
     background-color: var(--eerie-black-1);
-    color: var();
+    color: var(--white);
 }
