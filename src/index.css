@@ -165,5 +165,5 @@ body.nav-active {
     background-color: var(--gold-crayola);
     z-index: 10;
     display: grid;
-    place-content: ;
+    place-content: center;
 }
