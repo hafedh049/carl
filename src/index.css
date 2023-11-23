@@ -418,4 +418,6 @@ body.nav-active {
     animation-delay: 300ms;
 }
 
-.navbar,
+.navbar {
+    position: fixed;
+}
