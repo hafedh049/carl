@@ -187,6 +187,7 @@ body.nav-active {
     content: "";
     position: absolute;
     left: 0;
+    bottom: 0;
 }
 
 .preload {
