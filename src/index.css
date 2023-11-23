@@ -109,4 +109,5 @@ input,
 select,
 textarea {
     width: 100%;
+    outline: ;
 }
