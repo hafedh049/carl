@@ -492,3 +492,7 @@ body.nav-active {
     color: var(--gold-crayola);
     transform: translateX(20px);
 }
+
+.navbar-link {
+    
+}
