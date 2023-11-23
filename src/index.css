@@ -183,7 +183,7 @@ body.nav-active {
     max-width: max-content;
 }
 
-.hover-underline::after{
+.hover-underline::after {
     content: "";
     position: absolute;
     left: 0;
