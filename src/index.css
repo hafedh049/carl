@@ -85,5 +85,5 @@ button,
 select,
 ion-icon,
 textarea {
-    
+    display: block;
 }
