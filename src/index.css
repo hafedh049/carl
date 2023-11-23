@@ -131,5 +131,5 @@ body{
     font-family: var(--fontFamily-dm_sans);
     font-size: var(--fontSize-body-4);
     font-weight: var(--weight-regular);
-    line-height: var();
+    line-height: var(--);
 }
