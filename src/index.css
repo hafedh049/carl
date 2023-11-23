@@ -444,5 +444,7 @@ body.nav-active {
     color: var(--white);
     border: 1px solid currentColor;
     padding: 4px;
-    border: -radius: var(--radius-circle);
+    border-radius: var(--radius-circle);
+    margin-inline-start: auto;
+    margin-block: 30px;
 }
