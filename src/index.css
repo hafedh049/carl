@@ -425,4 +425,7 @@ body.nav-active {
     left: -360px;
     bottom: 0;
     max-width: 360px;
+    width: 100%;
+    padding-inline:calc(30px);
+    padding-block-end: ;
 }
