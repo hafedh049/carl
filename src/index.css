@@ -211,5 +211,5 @@ body.nav-active {
     text-transform: uppercase;
     letter-spacing: 16px;
     padding-inline-start: 16px;
-    -webkit-text-fill-color: ;
+    -webkit-text-fill-color: transparent;
 }
