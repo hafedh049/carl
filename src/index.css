@@ -156,7 +156,9 @@ body.nav-active {
     background-color: var(--gold-crayola);
 }
 
-.container
+.container {
+    
+}
 
 .preload {
     position: fixed;
