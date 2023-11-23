@@ -196,7 +196,9 @@ body.nav-active {
     font-size: var(--fontSize-title-2);
 }
 
-
+.title-2 {
+    font-size: var(--fontSize-title-2);
+}
 
 .container {
     padding-inline: 16px;
