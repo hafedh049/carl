@@ -192,12 +192,12 @@ body.nav-active {
     font-size: var(--fontSize-title-2);
 }
 
-.title-2 {
-    font-size: var(--fontSize-title-2);
+.title-3 {
+    font-size: var(--fontSize-title-3);
 }
 
-.title-2 {
-    font-size: var(--fontSize-title-2);
+.title-4 {
+    font-size: var(--fontSize-title-4);
 }
 
 .container {
