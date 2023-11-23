@@ -497,5 +497,5 @@ body.nav-active {
     position: absolute;
     top: 50%;
     left: 0;
-    transform: translate;
+    transform: translateY(-50%) rotate(45deg);
 }
