@@ -143,4 +143,6 @@ body.nav-active {
     overflow: hidden;
 }
 
-::-webkit-scrollbar
+::-webkit-scrollbar {
+    
+}
