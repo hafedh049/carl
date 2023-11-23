@@ -157,5 +157,5 @@ body.nav-active {
 }
 
 .preload {
-    
+    position: fixed;
 }
