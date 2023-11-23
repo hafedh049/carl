@@ -538,3 +538,7 @@ body.nav-active {
 .navbar::-webkit-scrollbar-thumb {
     background-color: var(--white-alpha-10);
 }
+
+.overlay {
+    
+}
