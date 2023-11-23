@@ -175,7 +175,7 @@ body.nav-active {
 .contact-number{
     color: var(--gold-crayola);
     max-width: max-content;
-    margin-inline: ;
+    margin-inline: auto;
 }
 
 .preload {
