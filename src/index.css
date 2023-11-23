@@ -208,4 +208,5 @@ body.nav-active {
     font-size: calc(2rem + 3vw);
     font-weight: var(--weight-bold);
     line-height: 1em;
+    text-transform: uppercase;
 }
