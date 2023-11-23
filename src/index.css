@@ -130,5 +130,5 @@ body{
     color: var(--white);
     font-family: var(--fontFamily-dm_sans);
     font-size: var(--fontSize-body-4);
-    font-weight: var(--w);
+    font-weight: var(--weight-regular);
 }
