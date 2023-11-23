@@ -420,4 +420,5 @@ body.nav-active {
 
 .navbar {
     position: fixed;
+    background-color: var(--smoky-black-1);
 }
