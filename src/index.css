@@ -357,4 +357,6 @@ body.nav-active {
     display: none;
 }
 
-.header
+.header {
+    position: fixed;
+}
