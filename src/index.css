@@ -525,3 +525,5 @@ body.nav-active {
 .sidebar-link:is(:hover, :focus-visible) {
     color:var(--gold-crayola);
 }
+
+.navbar .text-center
