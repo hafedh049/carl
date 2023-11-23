@@ -517,3 +517,7 @@ body.nav-active {
 .sidebar-link {
     transition: var(--transition-1);
 }
+
+.sidebar-link:is(:hover, :focus-visible) {
+    color:var(--gold-crayola);
+}
