@@ -47,8 +47,8 @@
     --lineHeight-6: 1.4em;
 
     --letterSpacing-1: 0.15em;
---letterSpacing-2: 0.4em;
---letterSpacing-3: 0.2em;
---letterSpacing-4: 0.3em;
---letterSpacing-5: 3px;
+    --letterSpacing-2: 0.4em;
+    --letterSpacing-3: 0.2em;
+    --letterSpacing-4: 0.3em;
+    --letterSpacing-5: 3px;
 }
