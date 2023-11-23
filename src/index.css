@@ -178,7 +178,9 @@ body.nav-active {
     margin-inline: auto;
 }
 
-.hover-underline
+.hover-underline {
+    
+}
 
 .preload {
     position: fixed;
