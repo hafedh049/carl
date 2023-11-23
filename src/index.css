@@ -473,5 +473,6 @@ body.nav-active {
 }
 
 .navbar-link {
-    
+    position: relative;
+    font-size: var(--fontSize-label-2);
 }
