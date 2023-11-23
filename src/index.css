@@ -429,4 +429,7 @@ body.nav-active {
     padding-inline:calc(30px);
     padding-block-end: 50px;
     overflow-y: auto;
+    visibility: hidden;
+    z-index: 2;
+    transition: var(--transition-2);
 }
