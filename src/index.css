@@ -396,5 +396,6 @@ body.nav-active {
 .nav-open-btn .line {
     width: 30px;
     height: 2px;
-    background-color
+    background-color: var(--white);
+    margin-block: 4px;
 }
