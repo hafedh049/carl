@@ -355,7 +355,6 @@ body.nav-active {
     display: none;
 }
 
-.overlay,
 .header .btn {
     display: none;
 }
@@ -540,5 +539,6 @@ body.nav-active {
 }
 
 .overlay {
-    
+    position: fixed;
+    top: 0;
 }
