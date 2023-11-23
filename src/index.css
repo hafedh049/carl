@@ -510,3 +510,6 @@ body.nav-active {
     margin-block-end: 15px;
 }
 
+.navbar-text {
+    margin-block: 10px;
+}
