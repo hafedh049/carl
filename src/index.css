@@ -493,6 +493,9 @@ body.nav-active {
     transform: translateX(20px);
 }
 
-.navbar-link {
-    
+.navbar-link .separator {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate;
 }
