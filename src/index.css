@@ -185,7 +185,7 @@ body.nav-active {
 }
 
 .title-1 {
-    font-size: var(--fontSize-title-1)
+    font-size: var(--fontSize-title-1);
 }
 
 .container {
