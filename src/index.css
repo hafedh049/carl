@@ -369,4 +369,7 @@ body.nav-active {
     transition: var(--transition-1);
 }
 
-.header.active {}
+.header.active {
+    padding-block: 20px;
+    background-color: var(--eerie-black-4);
+}
