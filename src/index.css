@@ -421,4 +421,8 @@ body.nav-active {
 .navbar {
     position: fixed;
     background-color: var(--smoky-black-1);
+    top: 0;
+    left: -360px;
+    bottom: 0;
+    max-width: 360px;
 }
