@@ -186,4 +186,5 @@ body.nav-active {
 .circle {
     width: 112px;
     height: 112px;
+    border-radius: var(--radius-circle);
 }
