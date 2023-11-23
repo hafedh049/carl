@@ -157,7 +157,7 @@ body.nav-active {
 }
 
 .container {
-    
+    padding-inline: 16px;
 }
 
 .preload {
