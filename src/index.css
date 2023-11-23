@@ -449,4 +449,6 @@ body.nav-active {
     margin-block: 30px 20px;
 }
 
-.navbar .close-btn
+.navbar .close-btn ion-icon {
+    --ionicon-stroke-width: 40px;
+}
