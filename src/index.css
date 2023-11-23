@@ -170,6 +170,10 @@ body.nav-active {
     line-height: var(--lineHeight-2);
 }
 
+.display-1 {
+    font-size: var(--fontSize-display-1);
+}
+
 .container {
     padding-inline: 16px;
 }
