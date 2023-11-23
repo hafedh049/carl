@@ -129,4 +129,5 @@ body{
     background-color: var(--eerie-black-1);
     color: var(--white);
     font-family: var(--fontFamily-dm_sans);
+    font-size: var(--fontSize-body-4);
 }
