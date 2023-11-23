@@ -498,4 +498,6 @@ body.nav-active {
     top: 50%;
     left: 0;
     transform: translateY(-50%) rotate(45deg);
+    opacity: 0;
+    transition: var(--transition-1);
 }
