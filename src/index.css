@@ -513,3 +513,7 @@ body.nav-active {
 .navbar-text {
     margin-block: 10px;
 }
+
+.sidebar-link {
+    transition: var(--transition-1);
+}
