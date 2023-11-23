@@ -398,4 +398,6 @@ body.nav-active {
     height: 2px;
     background-color: var(--white);
     margin-block: 4px;
+    transform-origin: left;
+    animation: menuBtn 400ms ease-in-out;
 }
