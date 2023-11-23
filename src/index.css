@@ -179,5 +179,5 @@ body.nav-active {
 }
 
 .preload.loaded {
-    transition-delay: 0.2;
+    transition-delay: 250ms;
 }
