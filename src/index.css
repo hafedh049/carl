@@ -164,4 +164,5 @@ body.nav-active {
     right: 0;
     background-color: var(--gold-crayola);
     z-index: 10;
+    display: ;
 }
