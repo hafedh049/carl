@@ -20,5 +20,5 @@
     --gradient-1: linear-gradient(to top, hsla(0, 0%, 0%, 0.9), hsla(0, 0%, 0%, 0.7), transparent);
 
     --fontFamily-forum: 'Forum', cursive;
---fontFamily-dm_sans: 'DM Sans', sans-serif;
+    --fontFamily-dm_sans: 'DM Sans', sans-serif;
 }
