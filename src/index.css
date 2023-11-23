@@ -372,4 +372,9 @@ body.nav-active {
 .header.active {
     padding-block: 20px;
     background-color: var(--eerie-black-4);
+    border-color: var(--black-alpha-15);
+}
+
+.header.hide {
+    
 }
