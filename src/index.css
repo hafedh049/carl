@@ -178,4 +178,6 @@ body.nav-active {
     opacity: 0;
 }
 
-.preload.loaded {}
+.preload.loaded {
+    transition-delay: 0.2;
+}
