@@ -275,7 +275,7 @@ body.nav-active {
 }
 
 .text-center {
-    text-align:center;
+    text-align: center;
 }
 
 .preload {
@@ -523,7 +523,7 @@ body.nav-active {
 }
 
 .sidebar-link:is(:hover, :focus-visible) {
-    color:var(--gold-crayola);
+    color: var(--gold-crayola);
 }
 
 .navbar .text-center .separator {
@@ -531,4 +531,7 @@ body.nav-active {
     margin-inline: auto;
 }
 
-.navbar
+.navbar .contact-label {
+    margin-block-end: 10px;
+}
+
