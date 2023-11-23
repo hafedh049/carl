@@ -383,7 +383,7 @@ body.nav-active {
     padding-inline: 20px;
     display: flex;
     justify-content: space-between;
-    align-items:center;
+    align-items: center;
     gap: 8px;
 }
 
@@ -405,6 +405,7 @@ body.nav-active {
     0% {
         transform: scaleX(1);
     }
+
     100% {
         transform: scaleX(0.5);
     }
@@ -426,10 +427,15 @@ body.nav-active {
     bottom: 0;
     max-width: 360px;
     width: 100%;
-    padding-inline:calc(30px);
+    padding-inline: calc(30px);
     padding-block-end: 50px;
     overflow-y: auto;
     visibility: hidden;
     z-index: 2;
     transition: var(--transition-2);
+}
+
+.navbar.active {
+    visibility: visible;
+    transition
 }
