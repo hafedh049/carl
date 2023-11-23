@@ -190,7 +190,7 @@ body.nav-active {
     bottom: 0;
     width: 100%;
     height: 5px;
-    border-block: ;
+    border-block: 1px ;
 }
 
 .preload {
