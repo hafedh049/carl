@@ -166,4 +166,5 @@ body.nav-active {
     z-index: 10;
     display: grid;
     place-content: center;
+    justify-content: ;
 }
