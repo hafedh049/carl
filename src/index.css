@@ -530,7 +530,3 @@ body.nav-active {
     margin-block: 30px;
     margin-inline: auto;
 }
-
-.navbar .body-4 {
-    color: var(--quick-silver);
-}
