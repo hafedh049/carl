@@ -15,4 +15,7 @@
     --black: hsla(0, 0%, 0%, 1);
     --black-alpha-80: hsla(0, 0%, 0%, 0.8);
     --black-alpha-15: hsla(0, 0%, 0%, 0.15);
+
+    --loading-text-gradient: linear-gradient(90deg, transparent 0% 16.66%, var(--smoky-black-3) 33.33% 50%,  transparent 66.66% 75%);
+--gradient-1: linear-gradient(to top,hsla(0, 0%, 0%, 0.9),hsla(0, 0%, 0%, 0.7),transparent);
 }
