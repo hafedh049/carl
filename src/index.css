@@ -197,7 +197,7 @@ body.nav-active {
 }
 
 .hover-underline:is(:hover, :focus-visible)::after {
-    transform: scaleX();
+    transform: scaleX(1);
 }
 
 .preload {
