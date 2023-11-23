@@ -151,4 +151,6 @@ body.nav-active {
     background-color: transparent;
 }
 
-::-webkit-scrollbar-thumb
+::-webkit-scrollbar-thumb{
+    
+}
