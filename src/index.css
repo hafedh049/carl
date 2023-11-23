@@ -212,7 +212,7 @@ body.nav-active {
 
 .body-3 {
     font-size: var(--fontSize-body-3);
-    line-height: var(--lineHeight-6);
+    line-height: var(--lineHeight-2);
 }
 
 .container {
