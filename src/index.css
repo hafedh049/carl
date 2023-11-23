@@ -167,6 +167,7 @@ body.nav-active {
     color: var(--white);
     font-family: var(--fontFamily-forum);
     font-weight: var(--weight-regular);
+    line-height: var(--lineHeight-2);
 }
 
 .container {
