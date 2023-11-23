@@ -206,4 +206,5 @@ body.nav-active {
     background-image: var(--loading-text-gradient);
     background-size: 500%;
     font-size: calc(2rem + 3vw);
+    
 }
