@@ -200,7 +200,9 @@ body.nav-active {
     font-size: var(--fontSize-title-4);
 }
 
-.body-1
+.body-1 {
+    
+}
 
 .container {
     padding-inline: 16px;
