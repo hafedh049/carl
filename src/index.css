@@ -547,4 +547,10 @@ body.nav-active {
     background-color: var(--black-alpha-80);
     opacity: 0;
     pointer-events: none;
+    transition: var(--transition-2);
+    z-index: 1;
+}
+
+.overlay.active {
+    
 }
