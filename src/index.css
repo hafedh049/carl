@@ -219,7 +219,7 @@ body.nav-active {
 }
 
 .label-1 {
-    font-size: ;
+    font-size: var(--fontSize-label-1);
 }
 
 .container {
