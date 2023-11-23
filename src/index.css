@@ -209,5 +209,5 @@ body.nav-active {
     font-weight: var(--weight-bold);
     line-height: 1em;
     text-transform: uppercase;
-    letter-spacing: 16px;;
+    letter-spacing: 16px;
 }
