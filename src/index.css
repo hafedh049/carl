@@ -169,3 +169,5 @@ body.nav-active {
     justify-content: center;
     transition: var(--transition-2);
 }
+
+.preload.loaded
