@@ -402,4 +402,8 @@ body.nav-active {
     animation: menuBtn 400ms ease-in-out alternate infinite;
 }
 
-@keyframes
+@keyframes menuBtn {
+    0% {
+        transform: scaleX(1);
+    }
+}
