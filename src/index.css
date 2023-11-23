@@ -168,6 +168,8 @@ body.nav-active {
     transform: rotate(45deg);
 }
 
+.contact-label {}
+
 .preload {
     position: fixed;
     top: 0;
