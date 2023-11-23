@@ -69,7 +69,7 @@
 *::after {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;   
+    box-sizing: border-box;
 }
 
 li {
@@ -93,7 +93,8 @@ a {
     text-decoration: none;
 }
 
-img {height: auto;
+img {
+    height: auto;
 }
 
 input,
@@ -116,16 +117,16 @@ button {
     cursor: pointer;
 }
 
-address{
+address {
     font-style: normal;
 }
 
-html{
+html {
     font-size: 10px;
     scroll-behavior: smooth;
 }
 
-body{
+body {
     background-color: var(--eerie-black-1);
     color: var(--white);
     font-family: var(--fontFamily-dm_sans);
@@ -148,11 +149,11 @@ body.nav-active {
     width: 5px;
 }
 
-::-webkit-scrollbar-track{
+::-webkit-scrollbar-track {
     background-color: transparent;
 }
 
-::-webkit-scrollbar-thumb{
+::-webkit-scrollbar-thumb {
     background-color: var(--gold-crayola);
 }
 
@@ -160,7 +161,7 @@ body.nav-active {
     padding-inline: 16px;
 }
 
-.separator{
+.separator {
     width: 8px;
     height: 8px;
     border: 1px solid var(--gold-crayola);
@@ -181,11 +182,11 @@ body.nav-active {
     transition: var(--transition-2);
 }
 
-.preload > * {
+.preload>* {
     transition: var(--transition-1);
 }
 
-.preload.loaded > * {
+.preload.loaded>* {
     opacity: 0;
 }
 
@@ -208,7 +209,8 @@ body.nav-active {
     0% {
         transform: rotate(0);
     }
-    100%{
+
+    100% {
         transform: rotate(1turn);
     }
 }
@@ -226,14 +228,15 @@ body.nav-active {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-stroke: 0.5px var(--eerie-black-3);
-    animation:  loadingText linear 2s infinite;
+    animation: loadingText linear 2s infinite;
 }
 
 @keyframes loadingText {
-    0%{
+    0% {
         background-position: 100%;
     }
-    100%{
+
+    100% {
         background-position: 0%;
     }
 }
