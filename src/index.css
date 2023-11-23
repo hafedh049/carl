@@ -203,5 +203,5 @@ body.nav-active {
 }
 
 .preload .text {
-    background-image: ;
+    background-image: var(--loading-text-gradient);
 }
