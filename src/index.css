@@ -427,5 +427,6 @@ body.nav-active {
     max-width: 360px;
     width: 100%;
     padding-inline:calc(30px);
-    padding-block-end: ;
+    padding-block-end: 50px;
+    overflow-y: auto;
 }
