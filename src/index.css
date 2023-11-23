@@ -164,7 +164,7 @@ body.nav-active {
     width: 8px;
     height: 8px;
     border: 1px solid var(--gold-crayola);
-    transform: rotate();
+    transform: rotate(45deg);
 }
 
 .preload {
