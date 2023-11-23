@@ -180,7 +180,7 @@ body.nav-active {
 
 .hover-underline {
     position: relative;
-    max-width
+    max-width: max-content;
 }
 
 .preload {
