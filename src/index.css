@@ -483,3 +483,5 @@ body.nav-active {
 .navbar-link::after {
     display: none;
 }
+
+.navbar-link
