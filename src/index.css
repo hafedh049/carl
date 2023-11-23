@@ -161,7 +161,8 @@ body.nav-active {
 }
 
 .separator{
-    width: 8px;;
+    width: 8px;
+    height: 8px;
 }
 
 .preload {
