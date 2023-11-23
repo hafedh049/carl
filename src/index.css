@@ -184,7 +184,9 @@ body.nav-active {
     line-height: var(--lineHeight-6);
 }
 
-.title-1
+.title-1 {
+    
+}
 
 .container {
     padding-inline: 16px;
