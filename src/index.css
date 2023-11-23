@@ -220,6 +220,6 @@ body.nav-active {
 
 @keyframes loadingText {
     0%{
-        background
+        background-position: ;
     }
 }
