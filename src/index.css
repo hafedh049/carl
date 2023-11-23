@@ -388,3 +388,7 @@ body.nav-active {
     gap: 8px;
 }
 
+.nav-open-btn {
+    padding: 12px;
+    padding-inline-end: 0;
+}
