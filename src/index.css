@@ -471,3 +471,7 @@ body.nav-active {
 .navbar-item {
     border-block-start: 1px solid var(--white-alpha-20);
 }
+
+.navbar-link {
+    
+}
