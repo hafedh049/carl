@@ -14,3 +14,4 @@ const addEventOnElements = function(elements, eventType, callback) {
 }
 
 const navbar = document.querySelector('[data-navbar]');
+const navTogglers = document.querySelector('[]')
