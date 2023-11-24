@@ -312,7 +312,11 @@ body.nav-active {
     border: 2px solid var(--gold-crayola);
     padding: 12px 45px;
     overflow: hidden;
-    z-index: inherit;
+    z-index: 1;
+}
+
+.btn::before {
+    content: '';
 }
 
 .preload {
