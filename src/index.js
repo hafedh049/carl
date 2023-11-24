@@ -24,3 +24,4 @@ const togglNavbar = function(){
 
 addEventOnElements(navTogglers, 'click', togglNavbar);
 
+const header = document.querySelector('[data-header]');
