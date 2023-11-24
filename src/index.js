@@ -14,7 +14,7 @@ window.addEventListener("load", function () {
 });
 
 const addEventOnElements = function(elements, eventType, callback) {
-  for(let i = 0, len = elements){
-    
+  for(let i = 0, len = elements.length ; i < len ; i += 1){
+
   }
 }
