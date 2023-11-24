@@ -346,8 +346,8 @@ body.nav-active {
     bottom: -50%;
 }
 
-.btn:is(:hover, :focus-visible) {
-    bottom: -50%;
+.btn:is(:hover, :focus-visible) .text-1{
+    transform: translateY(-40px);
 }
 
 .preload {
