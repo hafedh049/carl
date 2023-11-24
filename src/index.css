@@ -333,7 +333,11 @@ body.nav-active {
     transition: var(--transition-1);
 }
 
-.btn .text
+.btn .text {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+}
 
 .preload {
     position: fixed;
