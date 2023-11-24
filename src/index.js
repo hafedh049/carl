@@ -22,4 +22,4 @@ const togglNavbar = function(){
   document.body.classList.toggle('nav-active');
 }
 
-addEventOnElements(navTogglers, );
+addEventOnElements(navTogglers, 'click', togglNavbar);
