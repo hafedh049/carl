@@ -744,4 +744,6 @@ body.nav-active {
 .hero-btn .span {
     color: var(--black);
     font-weight: var(--weight-bold);
+    text-transform: uppercase;
+    letter-spacing: 1;
 }
