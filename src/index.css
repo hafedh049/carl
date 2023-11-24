@@ -329,11 +329,11 @@ body.nav-active {
     z-index: -1;
 }
 
-.btn text {
+.btn .text {
     transition: var(--transition-1);
 }
 
-.btn .text {
+.btn .text-2 {
     position: absolute;
     top: 100%;
     left: 50%;
@@ -342,7 +342,9 @@ body.nav-active {
     color: var(--smoky-black-1);
 }
 
-.btn .text-2
+.btn .text-2 {
+
+}
 
 .preload {
     position: fixed;
