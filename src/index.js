@@ -23,3 +23,4 @@ const togglNavbar = function(){
 }
 
 addEventOnElements(navTogglers, 'click', togglNavbar);
+
