@@ -301,6 +301,11 @@ body.nav-active {
     margin-block-start: 5px;
 }
 
+.btn {
+    position: relative;
+    color: var(--gold-crayola);
+}
+
 .preload {
     position: fixed;
     top: 0;
