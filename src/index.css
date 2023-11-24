@@ -310,6 +310,9 @@ body.nav-active {
     letter-spacing: var(--letterSpacing-5);
     max-width: max-content;
     border: 2px solid var(--gold-crayola);
+    padding: 12px 45px;
+    overflow: hidden;
+    z-index: inherit;
 }
 
 .preload {
