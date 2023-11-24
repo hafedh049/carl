@@ -719,4 +719,7 @@ body.nav-active {
     z-index: 2;
     background-color: var(--gold-crayola);
     width: 110px;
+    height: 110px;
+    padding: 12px;
+    transform: scale(0.6);
 }
