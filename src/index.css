@@ -742,5 +742,6 @@ body.nav-active {
 }
 
 .hero-btn .span {
-
+    color: var(--black);
+    font-weight: var(--weight-bold);
 }
