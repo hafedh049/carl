@@ -641,4 +641,6 @@ body.nav-active {
     pointer-events: all;
 }
 
-.hero .slider-btn
+.hero .slider-btn {
+    display: none;
+}
