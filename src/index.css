@@ -665,4 +665,6 @@ body.nav-active {
     padding-block-start: 100px;
     opacity: 0;
     visibility: hidden;
+    transition: var(--transition-3);
+    z-index: ;
 }
