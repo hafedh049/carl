@@ -1,11 +1,5 @@
 'use strict';
 
-/**
- * PRELOAD
- * 
- * loading will be end after document is loaded
- */
-
 const preloader = document.querySelector("[data-preaload]");
 
 window.addEventListener("load", function () {
@@ -18,3 +12,5 @@ const addEventOnElements = function(elements, eventType, callback) {
     elements[i].addEventListener(eventType, callback);
   }
 }
+
+const navbar
