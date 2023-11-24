@@ -13,4 +13,4 @@ const addEventOnElements = function(elements, eventType, callback) {
   }
 }
 
-const navbar
+const navbar = document.querySelector('[data-navbar]');
