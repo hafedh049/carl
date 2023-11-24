@@ -29,7 +29,10 @@ const header = document.querySelector('[data-header]');
 let lastScrollPos = 0;
 
 const hideHeader = function() {
-  const isScrollBottom = lastScrollPos;
+  const isScrollBottom = lastScrollPos < window.scrollY;
+  if(isScrollBottom){
+
+  }
 }
 
 window.addEventListener('scroll', function(){
