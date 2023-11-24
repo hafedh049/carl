@@ -363,6 +363,9 @@ body.nav-active {
     color: var(--white);
 }
 
+.has-before,
+.has-after
+
 .preload {
     position: fixed;
     top: 0;
