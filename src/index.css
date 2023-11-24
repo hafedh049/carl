@@ -346,12 +346,12 @@ body.nav-active {
     bottom: -50%;
 }
 
-.btn:is(:hover, :focus-visible) .text-1{
+.btn:is(:hover, :focus-visible) .text-1 {
     transform: translateY(-40px);
 }
 
-.btn:is(:hover, :focus-visible) .text-2{
-    top: 50%; 
+.btn:is(:hover, :focus-visible) .text-2 {
+    top: 50%;
     transform: translate(-50%, -50%);
 }
 
@@ -666,5 +666,9 @@ body.nav-active {
     opacity: 0;
     visibility: hidden;
     transition: var(--transition-3);
-    z-index: ;
+    z-index: 1;
+}
+
+.hero .slider-item.active {
+
 }
