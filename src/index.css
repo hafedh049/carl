@@ -317,6 +317,10 @@ body.nav-active {
 
 .btn::before {
     content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: ;
 }
 
 .preload {
