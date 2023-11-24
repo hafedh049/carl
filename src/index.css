@@ -293,7 +293,7 @@ body.nav-active {
     margin-block-end: 12px;
 }
 
-.section-subtitle::after{
+.section-subtitle::after {
     content: url('../assets/images/separator.svg');
     display: block;
     width: 100px;
@@ -342,11 +342,13 @@ body.nav-active {
     color: var(--smoky-black-1);
 }
 
-.btn:is(:hover, :focus-visible)::before{
+.btn:is(:hover, :focus-visible)::before {
     bottom: -50%;
 }
 
-
+.btn:is(:hover, :focus-visible) {
+    bottom: -50%;
+}
 
 .preload {
     position: fixed;
@@ -625,4 +627,3 @@ body.nav-active {
     opacity: 1;
     pointer-events: all;
 }
-
