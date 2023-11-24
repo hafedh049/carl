@@ -304,6 +304,8 @@ body.nav-active {
 .btn {
     position: relative;
     color: var(--gold-crayola);
+    font-size: var(--fontSize-label-2);
+    font-weight: var(--weight-bold);
 }
 
 .preload {
