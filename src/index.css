@@ -670,5 +670,6 @@ body.nav-active {
 }
 
 .hero .slider-item.active {
-
+    opacity: 1;
+    visibility: visible;
 }
