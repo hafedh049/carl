@@ -289,7 +289,7 @@ body.nav-active {
     color: var(--gold-crayola);
     font-weight: var(--weight-bold);
     text-transform: uppercase;
-    letter-spacing: ;
+    letter-spacing: var(--letterSpacing-2);
 }
 
 .preload {
