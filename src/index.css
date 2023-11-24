@@ -294,7 +294,8 @@ body.nav-active {
 }
 
 .section-subtitle::after{
-    content: url;
+    content: url('../assets/images/separator.svg');
+    display: block;
 }
 
 .preload {
