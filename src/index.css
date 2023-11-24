@@ -307,6 +307,8 @@ body.nav-active {
     font-size: var(--fontSize-label-2);
     font-weight: var(--weight-bold);
     text-transform: uppercase;
+    letter-spacing: var(--letterSpacing-5);
+    max-width: max-content;
 }
 
 .preload {
