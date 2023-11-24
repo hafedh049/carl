@@ -746,4 +746,5 @@ body.nav-active {
     font-weight: var(--weight-bold);
     text-transform: uppercase;
     letter-spacing: 1;
+    line-height: var(--lineHeight-1);
 }
