@@ -320,7 +320,9 @@ body.nav-active {
     position: absolute;
     bottom: 100%;
     left: 50%;
-    transform: ;
+    transform: translateX(-50%);
+    width: 200%;
+    height: 200%;
 }
 
 .preload {
