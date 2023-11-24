@@ -738,4 +738,9 @@ body.nav-active {
 
 .hero-btn img {
     margin-inline: auto;
+    margin-block-end: 6px;
+}
+
+.hero-btn .span {
+
 }
