@@ -325,7 +325,11 @@ body.nav-active {
     height: 200%;
     border-radius: var(--radius-circle);
     background-color: var(--gold-crayola);
+    transition: var(--transition-2);
+    z-index: -1;
 }
+
+
 
 .preload {
     position: fixed;
