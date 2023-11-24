@@ -690,6 +690,8 @@ body.nav-active {
     animation: smoothScale 7s linear forwards;
 }
 
-@keyframes identifier {
-    
+@keyframes smoothScale {
+    0% {
+        
+    }
 }
