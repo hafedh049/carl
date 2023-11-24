@@ -369,7 +369,11 @@ body.nav-active {
     z-index: 1;
 }
 
-.has-before::before
+.has-before::before,
+.has-after::after {
+    content: '';
+    position: absolute;
+}
 
 .preload {
     position: fixed;
