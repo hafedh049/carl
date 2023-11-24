@@ -284,7 +284,11 @@ body.nav-active {
     object-fit: cover;
 }
 
-
+.section-subtitle {
+    position: relative;
+    color: var(--gold-crayola);
+    font-weight: var(--weight-bold);
+}
 
 .preload {
     position: fixed;
