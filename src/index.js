@@ -33,7 +33,7 @@ const hideHeader = function() {
   if(isScrollBottom){
     header.classList.add('hide');
   }else{
-    
+    header.classList.remove('hide');
   }
 }
 
