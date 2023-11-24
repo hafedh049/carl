@@ -702,3 +702,7 @@ body.nav-active {
 .hero .section-subtitle::after {
     margin-block: 14px 20px;
 }
+
+.hero-text {
+ margin-block: 10px 20px;   
+}
