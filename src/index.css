@@ -682,4 +682,6 @@ body.nav-active {
     height: 100%;
     transform: scale(1.15);
     pointer-events: none;
+    user-select: none;
+    z-index: -1;
 }
