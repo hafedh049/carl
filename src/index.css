@@ -290,6 +290,11 @@ body.nav-active {
     font-weight: var(--weight-bold);
     text-transform: uppercase;
     letter-spacing: var(--letterSpacing-2);
+    margin-block-end: 12px;
+}
+
+.section-subtitle::after{
+    content: url;
 }
 
 .preload {
