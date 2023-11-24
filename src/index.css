@@ -708,4 +708,6 @@ body.nav-active {
     margin-block: 10px 20px;
 }
 
-.hero .btn
+.hero .btn {
+    margin-inline: auto;
+}
