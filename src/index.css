@@ -674,4 +674,10 @@ body.nav-active {
     visibility: visible;
 }
 
-.hero 
+.hero .slider-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: ;
+}
