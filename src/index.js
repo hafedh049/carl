@@ -28,4 +28,6 @@ const header = document.querySelector('[data-header]');
 
 let lastScrollPos = 0;
 
-const hideHeader
+const hideHeader = function() {
+  
+}
