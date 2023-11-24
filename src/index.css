@@ -662,5 +662,7 @@ body.nav-active {
     height: 100%;
     display: grid;
     place-content: center;
-    padding-block: ;
+    padding-block-start: 100px;
+    opacity: 0;
+    visibility: hidden;
 }
