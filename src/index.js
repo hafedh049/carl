@@ -21,3 +21,5 @@ const togglNavbar = function(){
   overlay.classList.toggle('active');
   document.body.classList.toggle('nav-active');
 }
+
+addEventOnElements(navTogglers, );
