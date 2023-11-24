@@ -329,7 +329,11 @@ body.nav-active {
     z-index: -1;
 }
 
-.btn text
+.btn text {
+    transition: var(--transition-1);
+}
+
+.btn .text
 
 .preload {
     position: fixed;
