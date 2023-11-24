@@ -655,4 +655,6 @@ body.nav-active {
 
 .hero .slider-item {
     position: absolute;
+    top: 50%;
+    left: 50%;
 }
