@@ -19,5 +19,5 @@ const overlay = document.querySelector('[data-overlay]');
 const togglNavbar = function(){
   navbar.classList.toggle('active');
   overlay.classList.toggle('active');
-  navbar.classList.toggle('active');
+  document.body.classList.toggle('nav-active');
 }
