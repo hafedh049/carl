@@ -323,6 +323,8 @@ body.nav-active {
     transform: translateX(-50%);
     width: 200%;
     height: 200%;
+    border-radius: var(--radius-circle);
+    background-color: var(--gold-crayola);
 }
 
 .preload {
