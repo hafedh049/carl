@@ -337,6 +337,8 @@ body.nav-active {
     position: absolute;
     top: 100%;
     left: 50%;
+    transform: translateX(-50%);
+    min-width: max-content;
 }
 
 .preload {
