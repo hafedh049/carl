@@ -13,4 +13,6 @@ window.addEventListener("load", function () {
   document.body.classList.add("loaded");
 });
 
-const addEventOnElements =  ;
+const addEventOnElements = function(elements, eventType, callback) {
+  
+}
