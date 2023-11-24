@@ -679,5 +679,7 @@ body.nav-active {
     top: 0;
     left: 0;
     width: 100%;
-    height: ;
+    height: 100%;
+    transform: scale(1.15);
+    pointer-events: none;
 }
