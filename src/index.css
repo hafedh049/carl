@@ -699,4 +699,6 @@ body.nav-active {
     }
 }
 
-.hero 
+.hero .section-subtitle::after {
+    margin-block: 14px 20px;
+}
