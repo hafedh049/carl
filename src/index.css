@@ -350,6 +350,10 @@ body.nav-active {
     transform: translateY(-40px);
 }
 
+.btn:is(:hover, :focus-visible) .text-2{
+    transform: translateY(-40px);
+}
+
 .preload {
     position: fixed;
     top: 0;
