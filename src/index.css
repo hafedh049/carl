@@ -711,3 +711,10 @@ body.nav-active {
 .hero .btn {
     margin-inline: auto;
 }
+
+.hero-btn {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    z-index: 2;
+}
