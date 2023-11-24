@@ -352,7 +352,7 @@ body.nav-active {
 
 .btn:is(:hover, :focus-visible) .text-2{
     top: 50%; 
-    transform: translateY(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 .preload {
