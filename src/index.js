@@ -32,7 +32,7 @@ const hideHeader = function() {
 }
 
 window.addEventListener('scroll', function(){
-  if(){
-    
+  if(this.window.scrollY >= 50){
+    header.classList.add('active');
   }
 });
