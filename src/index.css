@@ -339,7 +339,10 @@ body.nav-active {
     left: 50%;
     transform: translateX(-50%);
     min-width: max-content;
+    color: var(--smoky-black-1);
 }
+
+.btn .text-2
 
 .preload {
     position: fixed;
