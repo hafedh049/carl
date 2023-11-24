@@ -687,5 +687,9 @@ body.nav-active {
 }
 
 .hero .slider-item.active .slider-bg {
-    animation: smooth;
+    animation: smoothScale 7s linear forwards;
+}
+
+@keyframes identifier {
+    
 }
